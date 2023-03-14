@@ -7,3 +7,5 @@ En este ejercicio vamos a practicar la semántica y estructura del documento HTM
 Leed el fichero practica-html.pdf para más información
 
 Aquí puedes ver una [DEMO](https://practice-html5.vercel.app/) de como debe quedar todo estructurado.
+
+Solución cortesía de [Jonathan Ruiz](https://github.com/Cynox336/HTML_basico/tree/master/html5-semantico-main)
